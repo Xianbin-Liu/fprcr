@@ -1,0 +1,1 @@
+python train.py --dataPath data/uspto_condition_split -bs 512 --epoch 100 --device 0 --lr 1e-4
